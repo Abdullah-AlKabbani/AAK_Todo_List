@@ -1,16 +1,20 @@
-# final_todo
+AAK Todo List ..
 
-A new Flutter project.
+Created By Abdullah Al-Kabbani at 19/6/2022.
 
-## Getting Started
+# توصيف التطبيق (عربي):
 
-This project is a starting point for a Flutter application.
+هو عبارة عن تطبيق موبايل/ويب مكتوب بلغة Flutter،
+هو تطبيق بسيط يتيح للمستخدم تسجيل جدول مهامه اليوميَّة ووضع علامة على المهام التي أنجزها بطريقة سهلة وسلسلة.
 
-A few resources to get you started if this is your first Flutter project:
+مع جزيل الشكر للقراءة :-) ..
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Description (English):
+
+It is a mobile/web application,
+It is a simple application that allows the user to record his daily tasks schedule and mark the tasks he has completed in an easy and smooth way.
+
+Tanks For Reading :-) ..
+
+
